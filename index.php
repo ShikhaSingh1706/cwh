@@ -54,6 +54,7 @@ $con->close();
     <div class="container">
         <h3>welcome to IIT kanpur US trip form</h3>
         <p>enter your details to confirm your participation in the trip</p>
+        <p>this is the second branch</p>
         <?php
         if ($insert == true){
 
